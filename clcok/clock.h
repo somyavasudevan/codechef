@@ -1,0 +1,3 @@
+
+
+void printclock(int a);
